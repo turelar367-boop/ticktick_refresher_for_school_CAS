@@ -1,0 +1,10 @@
+{
+    "name_list": [
+        "[1]A and B",
+        "[2]C and D",
+        "[3]so on"
+    ],
+    "last_group": 4,
+    "default_roomweek": "False",
+    "default_workstatus": "True"
+}

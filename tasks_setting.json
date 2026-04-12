@@ -1,0 +1,24 @@
+{
+    "log_location": "log/ticktick_task_2026-3-21.log",
+    "clean_tasks_list": [
+        "task3"
+    ],
+    "clear_tasks_list": [
+        "task1",
+        "task2"
+    ],
+    "tasks_list": {
+        "task1": {
+            "PROJECT": "68c21ca68f08c2d6a530d699",
+            "ID": "690880b2ca38954488861a5c"
+        },
+        "task2": {
+            "PROJECT": "68c21ca68f08c2d6a530d699",
+            "ID": "690885a13c5f68075929a32f"
+        },
+        "task3": {
+            "PROJECT": "68c21ca68f08c2d6a530d699",
+            "ID": "69ca74ba8f0844de857f6b0f"
+        }
+    }
+}

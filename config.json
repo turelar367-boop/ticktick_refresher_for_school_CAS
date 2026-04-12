@@ -1,0 +1,12 @@
+{
+    "CLIENT_ID": "",
+    "CLIENT_SECRET": "",
+    "REDIRECT_URI": "http://127.0.0.1",
+    "SCOPE": "tasks:read tasks:write",
+    "Access_token": "",
+    "NAME": "device name",
+    "config_task": {
+        "PROJECT": "",
+        "ID": ""
+    }
+}
