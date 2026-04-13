@@ -1,4 +1,4 @@
-# ticktick_refresher_for_school_CAS
+# ticktick_refresher for schoolCAS
 Literally,I write a script base on ticktick openAPI and python to realize function of refreshing in school as a indivdual CAS project.
 main.py is the entry point of the program. You can deploy it on a server and set up a cron job (scheduled task) for automation. Note: Please pay attention to the timezone difference between your server and your local time.
 Configuration: Initialize config and clean_list files by following the templates provided in the application folder.
