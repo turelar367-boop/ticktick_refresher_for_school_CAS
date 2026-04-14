@@ -17,4 +17,5 @@ main.py 是主程序，找个服务器设置定时运行就行了，注意服务
 workstatus=True(False)
 roomweek=True(False)
 顺序不重要,创完把任务信息填到config.json文件里
+
 <img width="498" height="725" alt="flowchart" src="https://github.com/user-attachments/assets/a5b869b7-2003-44a6-ac29-2ffdc26574a3" />
