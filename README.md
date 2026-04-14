@@ -5,6 +5,14 @@ Configuration: Initialize config and clean_list files by following the templates
 task_setting is used to define which tasks should execute specific operations.
 Authentication:
 token_access is a semi-automated script designed to help you obtain your access token.
+There is a need of creating a config task in task list in form:
+workstatus=True(False)
+roomweek=True(False)
+The order doesn't matter and after creating the config task please fill the project and id of the task in config.json.
 
 字面意思，学校CAS项目，基于ticktick openAPI和python 实现ticktick 任务刷新功能。
 main.py 是主程序，找个服务器设置定时运行就行了，注意服务器和你所在地的时区问题。config,clean_list 这些文件先创一个application照着填就行了。task_setting 是用来确定哪些任务需要执行哪些操作的。token_access是一个半自动获得access token 的脚本。
+需要在ticktick任务列表中指定一个config task格式为
+workstatus=True(False)
+roomweek=True(False)
+顺序不重要,创完把任务信息填到config.json文件里
